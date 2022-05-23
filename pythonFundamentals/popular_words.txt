@@ -1,0 +1,1 @@
+[('name', 3), ('my', 2), ('is', 2), ('hello', 1), ('there,', 1), ('hegabovic', 1)]
