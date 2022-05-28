@@ -1,0 +1,7 @@
+to: abdullah@gmail.com 
+from: hegabovic@gmail.com
+subject: hello from the other side
+
+hi man my name is hegabovic , this is python program test , now i master python as a programming language 
+
+receiver:Mr.hegabovic
