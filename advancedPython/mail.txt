@@ -1,7 +1,0 @@
-to: hello  
-from: dfs
-subject: sfdsfsf
-
-sfsdfsdfdsfsdfsdfsdfsdf
-
-receiver:dfsfsd
